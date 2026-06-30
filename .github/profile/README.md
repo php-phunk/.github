@@ -1,8 +1,4 @@
-<p align="center">
-	<img alt="Phunk" width="250" src="../../assets/phunk-lock-sub-white-indigo-dynamic.svg">
-</p>
-
----
+# <img alt="Phunk" width="350" src="../../assets/phunk-lock-sub-white-indigo-dynamic.svg">
 
 > [!WARNING]	
 > I have no idea what I'm doing!
