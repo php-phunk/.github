@@ -1,6 +1,6 @@
-# <img alt="Phunk" width="350" src="../assets/phunk-lock-sub-white-indigo-dynamic.svg">
+# <img alt="Phunk" width="150" src="./assets/phunk-word-dynamic.svg">
 
-> [!WARNING]	
+> [!DANGER]	
 > I have no idea what I'm doing!
 
 Welcome to the PHP PHUNK organization! There is not much here yet. Have a look around to see if you can find anything. Don't make too much noise!
