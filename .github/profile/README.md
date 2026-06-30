@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="Phunk" width="250" src="../assets/phunk-lock-sub-white-indigo-dynamic.svg">
+	<img alt="Phunk" width="250" src="../../assets/phunk-lock-sub-white-indigo-dynamic.svg">
 </p>
 
 ---
