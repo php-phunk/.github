@@ -1,4 +1,6 @@
-# <img alt="Phunk" width="150" src="./assets/phunk-word-dynamic.svg">
+<p align="center">
+	<img alt="Phunk" width="300" src="./assets/phunk-word-dynamic.svg">
+</p>
 
 > [!CAUTION]	
 > I have no idea what I'm doing!
